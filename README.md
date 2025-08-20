@@ -1,4 +1,4 @@
-# Facts
+# Facts using React
 📘 Today-I-Learn (Facts App)
 live demo: https://todayilearn-with-ayanda.netlify.app/
 
